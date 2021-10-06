@@ -6,3 +6,5 @@ myrefs/
 
 .venv
 __pycache__/
+
+bot/secret.py
