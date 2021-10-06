@@ -68,7 +68,7 @@ class Model:
     """
     def __init__(self, data_path=None):
         self.clr = RandomForestClassifier(n_jobs=-1)
-        self.dpath = '../data/ObesityDataSet_raw_and_data_sinthetic.csv' \
+        self.dpath = 'data/ObesityDataSet_raw_and_data_sinthetic.csv' \
                      if data_path is None else data_path
         self.encoder = ObesityDummyEncoder()
         self.lb= LabelBinarizer()
