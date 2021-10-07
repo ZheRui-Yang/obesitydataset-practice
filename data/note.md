@@ -1,4 +1,3 @@
-<!-- 這份文件其實是 .md 格式，使用 markdown 閱讀器觀看會更舒服 -->
 ---
 title: 2019 Obesity (Fabio Mendoza Palechor et. al) 資料集備忘錄
 ---
